@@ -1,0 +1,23 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    line-height: 1.45;
+    max-width: 720px;
+    margin: 50px auto;
+    padding: 0 20px;
+    color: #000;
+    background: #fff;
+}
+
+h1 { font-size: 28px; font-weight: normal; margin-bottom: 4px; }
+h2 { font-size: 20px; font-weight: normal; border-bottom: 1px solid #999; margin-top: 32px; }
+
+.nav { margin: 10px 0 0 0; }
+
+.entry { margin: 0 0 14px 0; }
+.date  { float: right; color: #444; }
+.note  { color: #444; font-size: 15px; }
+
+hr { border: 0; border-top: 1px solid #999; }
+
+.footer { margin-top: 50px; font-size: 14px; color: #666; }
